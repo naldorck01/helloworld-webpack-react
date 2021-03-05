@@ -99,6 +99,14 @@
             <td><code>npm install -D sass sass-loader</code></td>
             <td>Work with sass</td>
           </tr>
+          <tr>
+            <td><code>npm install -D css-minimizer-webpack-plugin</code></td>
+            <td>Just like optimize-css-assets-webpack-plugin but more accurate with source maps and assets using query string, allows to cache and works in parallel mode. Getting Started</td>
+          </tr>
+          <tr>
+            <td><code>npm install -D clean-webpack-plugin</code></td>
+            <td>Clean build directory</td>
+          </tr>
         </tbody>
       </table>      
     </article>
